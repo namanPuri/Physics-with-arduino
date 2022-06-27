@@ -1,0 +1,35 @@
+Partlist exported from F:/CEDT_projects/arduino physics board/ardunio-physics-board-v3.sch at 18-06-2022 16:38
+
+Qty Value                       Device                                           Package                                       Parts                                   Description                          
+1                               AK500/2-H                                        AK500/2-H                                     X1                                      CONNECTOR                            
+1                               ARDUINONANOV30_ARDUINO_NANO                      ARDUINONANOV30_ARDUINO_NANO                   ARDUINO_NANO2                           Arduino Nano V3.0                    
+5                               AUX-CONNECTOR_CEDT_JANUARY_2015_V5_AUDIO-JACKPTH AUX-CONNECTOR_CEDT_JANUARY_2015_V5_AUDIO-JACK AIN(2), AIN(3), AIN(4), AIN(5), PWM(D5) 3.5mm Audio Jack                     
+1                               C-EU025-025X050                                  C025-025X050                                  C18                                     CAPACITOR, European symbol           
+1                               L-US6000-XXX-RC                                  6000-XXXX-RC                                  L1                                      INDUCTOR, American symbol            
+1                               POTNORMAL                                        RJ9W                                          R31                                                                          
+2                               R-US_0204/7                                      0204/7                                        R5, R6                                  RESISTOR, American symbol            
+4                               R-US_0207/10                                     0207/10                                       R7, R8, R10, R28                        RESISTOR, American symbol            
+7   0.1u                        C-EU025-024X044                                  C025-024X044                                  C6, C9, C15, C16, C17, C20, C22         CAPACITOR, European symbol           
+8   0.1u                        C-EU025-025X050                                  C025-025X050                                  C1, C2, C7, C8, C10, C11, C14, C19      CAPACITOR, European symbol           
+1   10                          RESISTOR0207/10                                  0207/10                                       R2                                                                           
+4   10k                         R-US_0204/7                                      0204/7                                        R15, R16, R17, R29                      RESISTOR, American symbol            
+1   10k                         R-US_0207/10                                     0207/10                                       R4                                      RESISTOR, American symbol            
+1   10k                         TRIM_EU-RJ9W                                     RJ9W                                          R19                                     POTENTIOMETER                        
+1   10u                         CPOL-EUE2.5-5                                    E2,5-5                                        C21                                     POLARIZED CAPACITOR, European symbol 
+5   10u                         CPOL-EUTT2D5                                     TT2D5                                         C3, C4, C5, C12, C13                    POLARIZED CAPACITOR, European symbol 
+10  1N5819                      1N5819                                           DO41-10                                       D1, D2, D3, D4, D5, D6, D7, D8, D9, D10 DIODE                                
+8   1k                          R-US_0204/7                                      0204/7                                        R3, R9, R11, R14, R18, R21, R22, R24    RESISTOR, American symbol            
+1   220k                        R-US_0204/7                                      0204/7                                        R13                                     RESISTOR, American symbol            
+1   220k                        R-US_0207/10                                     0207/10                                       R12                                     RESISTOR, American symbol            
+2   4k7                         R-US_0204/7                                      0204/7                                        R1, R20                                 RESISTOR, American symbol            
+1   4k7                         R-US_0207/10                                     0207/10                                       R30                                     RESISTOR, American symbol            
+1   BC337                       BC337                                            TO92                                          Q1                                      NPN Transistor                       
+1   BUZZER                      BUZZER                                           F/TMB                                         BUZZER(D3)                              BUZZER Source: Buerklin              
+1   DISTANCE-SENSOR-4PINHC-SR04 DISTANCE-SENSOR-4PINHC-SR04                      HC-SR04                                       ULTRASONIC(RX-TX)                                                            
+1   ICL7660CPAZ_ICL7660CPAZ     ICL7660CPAZ_ICL7660CPAZ                          ICL7660CPAZ_DIP254P762X533-8                  U2                                      CMOS Voltage Converters Check prices 
+2   JST-XH-05-PIN-LONG-PAD      JST-XH-05-PIN-LONG-PAD                           JST-XH-05-PACKAGE-LONG-PAD                    X2, X3                                  JST XH Connector 2 Pin               
+1   LED-TRICOLOR-COMMONANODE    LED-TRICOLOR-COMMONANODE                         LED-TRICOLOR-THROUGHHOLE                      RGB                                                                          
+2   LED3MM                      LED3MM                                           LED3MM                                        P-ON, T-MODE                                                                 
+2   LM358N                      LM358N                                           DIL08                                         IC1, IC2                                OP AMP also LM158; LM258; LM2904     
+2   OMRON_SWITCH_40-XX          OMRON_SWITCH_40-XX                               B3F-40XX                                      PB1(D4), PB2(D7)                                                             
+1   SLIDESWITCH-BIG             SLIDESWITCH-BIG                                  BIGSWITCH                                     U$4                                                                          
